@@ -4,8 +4,7 @@ public class something {
    public int sums() {
 	   int a=2;
 	   int b=5;
-	   int sum=0;
-	   sum= a+b;
+	   int sum= a+b;
 	  return 25; 
    }
 }
